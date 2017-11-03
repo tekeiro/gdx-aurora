@@ -1,0 +1,1 @@
+include 'aurora-core', 'test-game-core', 'test-game-android', 'test-game-desktop'
